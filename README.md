@@ -33,6 +33,6 @@ Based on the plot below, motor vehicle-related PM2.5 levels have decreased in Ba
 ![](plot5.png)
 
 ## Question 6
-Based on the plot below, motor vehicle-related PM2.5 levels have increased in Los Angelese County, CA from 1999-2008, though levels in 2008 were lower than in 2002. Compared to Baltimore, MD -- Baltimore has the seen the greatest change in PM2.5 levels over time as evidenced by comparing the slopes of the regression lines. The plot was generated using ggplot2.
+Based on the plot below, motor vehicle-related PM2.5 levels have increased in Los Angelese County, CA from 1999-2008, though levels in 2008 were lower than in 2006 and 2002. Compared to Baltimore, MD -- Baltimore has the seen the greatest change in PM2.5 levels over time as evidenced by comparing the slopes of the regression lines. The plot was generated using ggplot2.
 
 ![](plot6.png)
